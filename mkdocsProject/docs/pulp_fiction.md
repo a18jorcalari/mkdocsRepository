@@ -19,4 +19,4 @@ No es una película cargada de momentos geniales. Es una genialidad en su totali
 
 Te puede gustar o no, pero nadie duda de que Tarantino ha creado un estilo digno de ser estudiado en un capítulo aparte. Y “Pulp Fiction” es su obra cumbre.
 
-![Pulp Fiction](/img/pulp_fiction2.jpg){: width=100% }
+![Pulp Fiction](./img/pulp_fiction2.jpg){: width=100% }

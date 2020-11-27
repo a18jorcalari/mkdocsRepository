@@ -6,4 +6,4 @@ Su origen judío y el nazismo han sido elementos que siempre han obsesionado al 
 
 Con esta cinta, Spielberg realizó una poesía viviente, una obra totalmente lírica sobre el horror y la demencia del hombre, un maravilloso canto a la vida, a la esperanza en la oscuridad, y le da voz a un pueblo silenciado y humillado durante siglos, que por fin vio cómo su sufrimiento era relatado con manos serias, y todo ello es posible gracias a un hombre, Oskar Schindler, el mayor mecenas del siglo XX, y probablemente de la historia, el mecenas de lo más valioso e importante de este mundo: la vida
 
-![Lista de Schindler](/img/lista.jpg){: width=100% }
+![Lista de Schindler](./img/lista.jpg){: width=100% }

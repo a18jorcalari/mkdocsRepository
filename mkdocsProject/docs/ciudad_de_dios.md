@@ -10,4 +10,4 @@ Buenas frases, buen trato a los personajes, buena música, desgarradora, a ratos
 
 Respecto a la polémica de su puesto 20 en el top FA (y llegó a estar entre las diez primeras, creo recordar), ya veremos qué dice el tiempo. Hay que tener en cuenta también que mucha gente ve la peli, le gusta, y en fin, le falta tiempo para conectarse y soltarle un 10. La emoción está reciente, acto que no ocurre igual de exagerado con los grandes clásicos (si mi padre vuelve a ver L'Atalante no sale disparado del salón al ordenador para conectarse a leer como un enfermizo todo lo que se cuente de ello en la Gran Red y ponerse a disparar votos y piropos en foros y páginas de todo tipo donde se mencione "Cidade de Deus".
 
-![Ciudad de Dios](/img/ciudad.jpg){: width=100% }
+![Ciudad de Dios](./img/ciudad.jpg){: width=100% }

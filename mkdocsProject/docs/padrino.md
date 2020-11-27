@@ -8,4 +8,4 @@ Los intérpretes en "El padrino" son anulados, no existen, el personaje se desva
 
 Hablar sobre planos, fotografía, movimientos de cámara, encuadres, vestuario y demás sería quedarse en la más absoluta nada tras seres que te dejan encogido en la butaca y sin parpadear ni un sólo momento. Y eso que la banda sonora se te queda grabada, porque por mucho que Vito, Sonny, Michael, Tom o Kay capten tu atención del todo, genialidades como la de Nino Rota nunca pasarían desapercibidas. Jamás.
 
-![Padrino](/img/padrino.jpg){: width=100% }
+![Padrino](./img/padrino.jpg){: width=100% }
