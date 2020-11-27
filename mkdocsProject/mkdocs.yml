@@ -1,5 +1,23 @@
-site_name: MkLorum
+site_name: KolvinReview
 nav:
     - Home: index.md
+    - Erase una vez en América: erase_america.md
+    - Pulp Fiction: pulp_fiction.md
+    - El Padrino: padrino.md
+    - Ciudad de Dios: ciudad_de_dios.md
+    - La Lista de Schindler: lista_schindler.md
     - About: about.md
-theme: readthedocs
+theme: material
+extra:
+    social:
+        - icon: fontawesome/solid/paper-plane
+          link: mailto:a18jorcalari@inspedralbes.cat
+          name: Write me!
+        - icon: fontawesome/brands/github
+          link: https://github.com/a18jorcalari
+          name: Jordi Github!
+        - icon: fontawesome/brands/linkedin
+          link: https://www.linkedin.com/in/jordi-callupe-arias/
+          name: Jordi Linkedin!
+markdown_extensions:
+    - attr_list
