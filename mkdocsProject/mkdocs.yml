@@ -7,7 +7,10 @@ nav:
     - Ciudad de Dios: ciudad_de_dios.md
     - La Lista de Schindler: lista_schindler.md
     - About: about.md
-theme: material
+theme:
+    name: material
+    favicon: img/icon.png
+    logo: img/icon.png
 extra:
     social:
         - icon: fontawesome/solid/paper-plane
@@ -19,5 +22,8 @@ extra:
         - icon: fontawesome/brands/linkedin
           link: https://www.linkedin.com/in/jordi-callupe-arias/
           name: Jordi Linkedin!
+plugins:
+    - search:
+          lang: es
 markdown_extensions:
     - attr_list
